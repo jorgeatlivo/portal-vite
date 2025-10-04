@@ -1,0 +1,8 @@
+{
+  "title": "Hai modifiche non salvate",
+  "create_offer_body": "Vuoi salvare le modifiche apportate all'offerta prima di uscire da questa pagina?",
+  "edit_offer_body": "Se esci da questa pagina, perderai le modifiche apportate all'offerta. Cosa vuoi fare?",
+  "discard_button": "Ignora",
+  "return_button": "Ritorno",
+  "edit_button": "Continua a modificare"
+}

@@ -1,0 +1,12 @@
+{
+  "low": "Low",
+  "medium": "Medium",
+  "tooltip_title": "Select 1 or more days to create shifts.",
+  "tooltip_list_header": "Shifts highlighted with:",
+  "tooltip_list_normal": "Selected shifts",
+  "tooltip_list_holiday": "Selected shifts on a holiday",
+  "tooltip_list_low": "Shifts with a low probability of being filled",
+  "tooltip_list_medium": "Shifts with a medium probability of being filled",
+  "tooltip_with_band": "{{count}} with <Band/>",
+  "tooltip_with_both": "{low} with <LowBand/> and {medium} with <MediumBand/>"
+}

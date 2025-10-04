@@ -1,0 +1,15 @@
+{
+  "empty_shifts_state_title": "There are no scheduled shifts for this time of day. Once a shift is created, you will be able to see it here.",
+  "empty_shifts_state_publish_shift_subtitle": "Press ",
+  "empty_shifts_state_publish_shift_subtitle_2": " to publish a new shift.",
+  "empty_shifts_state_publish_shift_button": "Create shift +",
+  "filtered_empty_shifts_state_title": "No results",
+  "filtered_empty_shifts_state_publish_shift_subtitle": "No shifts published with the applied filter.",
+  "filtered_empty_shifts_state_publish_shift_button": "View all shifts",
+  "identifier_copied": "Identifier copied successfully",
+  "filter_requests": "Requests",
+  "filter_pending": "Pending",
+  "filter_covered": "Covered",
+  "filter_onboarding": "Onboarding",
+  "filter_all": "All"
+}

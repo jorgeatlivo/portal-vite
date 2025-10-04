@@ -1,0 +1,23 @@
+{
+  "change_password_title": "Zmienić hasła",
+  "settings_modal_header_title": "Ustawienia",
+  "error_passwords_do_not_match": "Hasła nie są identyczne",
+  "error_invalid_password": "Hasło nie może być puste",
+  "error_change_password": "Wystąpił błąd podczas dyżury hasła",
+  "error_title": "Błąd",
+  "password_change_successful_title": "Hasło zmienione",
+  "password_change_successful_message": "Twoje hasło zostało pomyślnie zmienione",
+  "settings_screen_change_password_header": "Zmienić hasła",
+  "settings_screen_change_password_old": "Obecne hasło",
+  "settings_screen_change_password_new": "Nowe hasło",
+  "settings_screen_change_password_confirm": "Potwierdź hasło",
+  "settings_screen_change_password_button": "Zmień hasło",
+  "configuration_screen_title": "Ustawienia",
+  "settings_screen_information": "Twoje informacje",
+  "settings_screen_settings_config": "Ustawienia",
+  "settings_screen_facility_info": "Informacje o placówce",
+  "last_time_sign_in": "Ostatnie logowanie: ",
+  "password_succeed_changed": "Hasło zostało pomyślnie zmienione",
+  "current_password": "Obecne hasło",
+  "personal_data_title": "Dane osobowe"
+}

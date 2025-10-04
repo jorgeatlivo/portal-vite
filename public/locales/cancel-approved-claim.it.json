@@ -1,0 +1,6 @@
+{
+  "modal_title": "Vuoi revocare la richiesta a questo professionista?",
+  "modal_body": "La richiesta verrà annullata e l'appuntamento tornerà disponibile con la configurazione originale. Questo professionista non potrà più effettuare una richiesta.",
+  "cancel_button_label": "Annulla richiesta",
+  "return_button_label": "Indietro"
+}

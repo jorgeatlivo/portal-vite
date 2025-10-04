@@ -1,0 +1,15 @@
+{
+  "empty_shifts_state_title": "No hay turnos publicados",
+  "empty_shifts_state_publish_shift_subtitle": "De momento no tienes turnos publicados.\n Presiona en ",
+  "empty_shifts_state_publish_shift_subtitle_2": " para publicar un nuevo turno.",
+  "empty_shifts_state_publish_shift_button": "Crear turno +",
+  "filtered_empty_shifts_state_title": "No hay resultados",
+  "filtered_empty_shifts_state_publish_shift_subtitle": "No hay turnos publicados con el filtro aplicado.",
+  "filtered_empty_shifts_state_publish_shift_button": "Ver todos los turnos",
+  "identifier_copied": "Identificador copiado con éxito",
+  "filter_requests": "Solicitudes",
+  "filter_pending": "Pendientes",
+  "filter_covered": "Cubiertos",
+  "filter_onboarding": "Acogida",
+  "filter_all": "Todos"
+}

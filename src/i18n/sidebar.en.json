@@ -1,0 +1,10 @@
+{
+  "route_activity": "Activity",
+  "route_calendar": "Calendar",
+  "route_shifts": "Shifts",
+  "route_offers": "Offers",
+  "route_documentation": "Documentation",
+  "route_staff": "Staff",
+  "route_configuration": "Configuration",
+  "leave": "Leave"
+}

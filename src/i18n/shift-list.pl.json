@@ -1,0 +1,15 @@
+{
+  "empty_shifts_state_title": "Nie ma zaplanowanych dyżurów na tę porę dnia. Gdy dyżury zostanie utworzony, będzie można go zobaczyć tutaj.",
+  "empty_shifts_state_publish_shift_subtitle": "Naciśnij ",
+  "empty_shifts_state_publish_shift_subtitle_2": " aby opublikować nowy dyżur.",
+  "empty_shifts_state_publish_shift_button": "Utwórz dyżur +",
+  "filtered_empty_shifts_state_title": "Brak wyników",
+  "filtered_empty_shifts_state_publish_shift_subtitle": "Brak opublikowanych dyżurów z zastosowanym filtrem.",
+  "filtered_empty_shifts_state_publish_shift_button": "Zobacz wszystkie dyżury",
+  "identifier_copied": "Identyfikator skopiowany pomyślnie",
+  "filter_requests": "Zgłoszenia",
+  "filter_pending": "Oczekujące",
+  "filter_covered": "Obsadzone",
+  "filter_onboarding": "Wprowadzenie",
+  "filter_all": "Wszystkie"
+}

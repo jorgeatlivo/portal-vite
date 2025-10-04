@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "PP Telegraf";
+  src: url("./assets/fonts/PPTelegraf-Regular.otf") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  min-width: 320px !important;
+  overflow: hidden;
+  margin: 0;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  background-color: #f3f4f5;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+code {
+  font-family:
+    source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+html {
+  height: 100%;
+}
+
+.content {
+  height: calc(100vh - 120px);
+  /* Content is adjusted to appbar height */
+}
+
+.content-height {
+  height: calc(100vh - 120px);
+  /* Content is adjusted to appbar height */
+}
+
+p {
+  @apply whitespace-pre-line;
+}
+
+@layer components {
+  .heading-xl {
+    @apply text-s07 leading-s07 font-medium tracking-none;
+  }
+
+  .heading-lg {
+    @apply text-s06 leading-s06 font-medium tracking-none;
+  }
+
+  .heading-md {
+    @apply text-s05 leading-s05 font-medium tracking-none;
+  }
+
+  .heading-sm {
+    @apply text-s04 leading-s03 font-medium tracking-none;
+  }
+
+  .subtitle-regular {
+    @apply text-s03 leading-s03 font-medium tracking-none;
+  }
+
+  .subtitle-sm {
+    @apply text-s02 leading-s01 font-medium tracking-none;
+  }
+
+  .body-regular {
+    @apply text-s03 leading-s03 font-regular tracking-none;
+  }
+
+  .body-sm {
+    @apply text-s02 leading-s01 font-regular tracking-none;
+  }
+
+  .action-regular {
+    @apply text-s03 leading-s01 font-medium tracking-medium;
+  }
+
+  .action-sm {
+    @apply text-s02 leading-s01 font-bold tracking-small;
+  }
+
+  .info-caption {
+    @apply text-s02 leading-s02 font-regular tracking-none;
+  }
+
+  .info-overline {
+    @apply text-s01 leading-s01 font-regular tracking-none;
+  }
+
+  .table-header {
+    @apply text-s03 leading-s03 font-medium tracking-none;
+  }
+}

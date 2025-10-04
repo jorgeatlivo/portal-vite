@@ -1,0 +1,36 @@
+.stepContainer {
+  position: relative;
+  width: 100%;
+}
+
+.step {
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  transform: translateX(0);
+}
+
+.enterFromRight {
+  opacity: 0;
+  transform: translateX(50px);
+}
+
+.enterFromLeft {
+  opacity: 0;
+  transform: translateX(-50px);
+}
+
+.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.exitToRight {
+  opacity: 0;
+  transform: translateX(50px);
+}
+
+.exitToLeft {
+  opacity: 0;
+  transform: translateX(-50px);
+}

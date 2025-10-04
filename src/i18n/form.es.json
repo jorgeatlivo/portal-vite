@@ -1,0 +1,10 @@
+{
+  "clear": "Limpiar",
+  "close": "Cerrar",
+  "save": "Guardar",
+  "other": "Otro",
+  "select_placeholder": "Especifique un valor",
+  "no_search_results": "No hemos encontrado ningún resultado que coincida con tus criterios. Por favor, limpia o vuelve a buscar.",
+  "loading": "Cargando...",
+  "clear_search": "Limpiar búsqueda"
+}

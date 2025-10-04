@@ -1,0 +1,15 @@
+{
+  "favorite_professionals_title": "Favorite Professionals",
+  "manage_favorite_professionals_title": "Manage Favorites",
+  "favorite_label": "Favorite",
+  "open_favorite_professionals_label": "View Favorite Professionals",
+  "favorite_professional_label": "Favorite Professional",
+  "view_all_favorite_professionals_label": "View All Favorites",
+  "remove_favorite_professional_title": "Do you want to remove from favorites?",
+  "remove_favorite_professional_dismiss_title": "Go Back",
+  "remove_favorite_professional_button_title": "Remove",
+  "remove_favorite_professional_description_1": "By removing this professional from your favorites, they will not be prioritized in future shift assignments.",
+  "remove_favorite_professional_description_2": "Are you sure you want to continue?",
+  "error_loading_favorite_professionals": "Error loading favorite professionals",
+  "searching_professionals_description": "We are looking for professionals to cover this shift, prioritizing your favorite professionals to ensure the best possible care."
+}

@@ -1,0 +1,12 @@
+{
+  "general_info_tab": "General Information",
+  "permissions_tab": "Permissions",
+  "user_info": "User Information",
+  "facility_info": "Facility Information",
+  "change_password_cta": "Change Password",
+  "facilities_counter": "< {facilities, plural, one{# facility} other{# facilities}}",
+  "legal_id_title": "CIF",
+  "title": "Confguration",
+  "favorite_professionals_title": "Favorite Professionals",
+  "language": "Language"
+}

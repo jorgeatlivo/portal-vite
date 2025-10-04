@@ -1,0 +1,22 @@
+{
+  "edit_shift_title": "Edit shift: {shift}",
+  "select_category_title": "What type of shift do you want to create?",
+  "edit_single_shift_summary_header": "The shift on {date, date, DD/MM/YYYY} will be edited",
+  "edit_multiple_shifts_summary_header": "{numberOfShifts} shifts will be edited between {startDate} and {endDate}",
+  "edit_shift_button": "Edit shift",
+  "edit_multiple_shifts_button": "Edit {numberOfShifts} shifts",
+  "edit_shift_date_selector_subtitle": "Changes will not be applied to covered shifts.",
+  "edit_recurrent_shift_button": "Edit shift",
+  "edit_recurrent_shift_go_back": "Cancel",
+  "recurrency_option_this_shift": "This shift",
+  "recurrency_option_all_shifts": "All shifts",
+  "recurrency_options_all_shifts_disclaimer": "(Except covered shifts)",
+  "error_editing_header": "Error updating shift",
+  "shift_modification_success": "Shift updated successfully",
+  "shift_modification_failed": "Failed to update shift",
+  "assign_candidates": "Assign candidates",
+  "assign_candidates_tooltip": "Assign a professional to a shift to give them priority access so they can apply before others. They’ll have 8 hours of priority for shifts with less than 72 hours’ notice and 24 hours of priority for shifts with more than 72 hours’ notice.",
+  "checking_professional_eligibility": "Checking professional eligibility...",
+  "professionals_removed_warning": "⚠️ The following professionals were removed due to eligibility issues: {professionals}",
+  "professional_already_accepted_shift": "Professional already accepted this shift"
+}

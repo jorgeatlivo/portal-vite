@@ -1,0 +1,30 @@
+@import "constants.css";
+
+.link {
+  text-decoration: none !important;
+}
+
+.link-text {
+}
+
+.header-container {
+}
+
+.table-container {
+}
+
+.container {
+  margin: 2em;
+}
+
+.confirm-button-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1em;
+  align-items: center;
+}
+
+.form {
+  margin-bottom: 1em;
+}

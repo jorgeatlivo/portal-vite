@@ -1,0 +1,14 @@
+{
+  "accept": "Accettare",
+  "edit": "Modificare",
+  "go_back": "Indietro",
+  "apply_label": "Applicare",
+  "return_label": "Indietro",
+  "page_not_found_title": "Ops! Pagina non trovata.",
+  "page_not_found_subtitle": "La pagina che stai cercando non esiste.",
+  "page_not_found_button": "Torna alla home",
+  "no_option_selected": "Nessuna",
+  "nurse": "Infermiere",
+  "error_on_confirm_action": "Errore nella conferma dell'azione",
+  "error_unexpected_error": "Si è verificato un errore imprevisto"
+}

@@ -1,0 +1,22 @@
+{
+  "edit_shift_title": "Editar turno: {shift}",
+  "select_category_title": "¿Qué tipo de turno quieres crear?",
+  "edit_single_shift_summary_header": "Se editará el turno del {date, date, DD/MM/YYYY}",
+  "edit_multiple_shifts_summary_header": "Se editarán {numberOfShifts} turnos entre el {startDate} y el {endDate}",
+  "edit_shift_button": "Editar turno",
+  "edit_multiple_shifts_button": "Editar {numberOfShifts} turnos",
+  "edit_shift_date_selector_subtitle": "Los cambios no serán aplicados a los turnos cubiertos.",
+  "edit_recurrent_shift_button": "Editar turno",
+  "edit_recurrent_shift_go_back": "Cancelar",
+  "recurrency_option_this_shift": "Este turno",
+  "recurrency_option_all_shifts": "Todos los turnos",
+  "recurrency_options_all_shifts_disclaimer": "(Excepto los turnos cubiertos)",
+  "error_editing_header": "Error al actualizar turno",
+  "shift_modification_success": "Turno actualizado con éxito",
+  "shift_modification_failed": "Error al actualizar el turno",
+  "assign_candidates": "Asignar candidatos",
+  "assign_candidates_tooltip": "Asigna a un profesional a un turno para darle acceso prioritario y que pueda aplicar antes que los demás. Tendrá 8 horas de prioridad para turnos con menos de 72 horas de antelación y 24 horas de prioridad para turnos con más de 72 horas de antelación.",
+  "checking_professional_eligibility": "Verificando elegibilidad de profesionales...",
+  "professionals_removed_warning": "⚠️ Los siguientes profesionales fueron removidos debido a problemas de elegibilidad: {professionals}",
+  "professional_already_accepted_shift": "El profesional ya aceptó este turno"
+}

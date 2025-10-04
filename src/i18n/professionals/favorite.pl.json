@@ -1,0 +1,15 @@
+{
+  "favorite_professionals_title": "Ulubieni pracownicy",
+  "manage_favorite_professionals_title": "Zarządzaj Ulubionymi",
+  "favorite_label": "Ulubiony",
+  "open_favorite_professionals_label": "Zobacz Ulubionych Pracowników",
+  "favorite_professional_label": "Ulubiony Pracownik",
+  "view_all_favorite_professionals_label": "Zobacz Wszystkich Ulubionych",
+  "remove_favorite_professional_title": "Czy chcesz usunąć z ulubionych?",
+  "remove_favorite_professional_dismiss_title": "Wróć",
+  "remove_favorite_professional_button_title": "Usuń",
+  "remove_favorite_professional_description_1": "Po usunięciu tego pracownika z ulubionych, nie będzie on priorytetyzowany w przyszłych przydziałach dyżurów.",
+  "remove_favorite_professional_description_2": "Czy na pewno chcesz kontynuować?",
+  "error_loading_favorite_professionals": "Błąd podczas wczytywania ulubionych pracowników",
+  "searching_professionals_description": "Szukamy pracowników do obsadzenia tej dyżur, priorytetyzując Twoich ulubionych pracowników, aby zapewnić najlepszą możliwą opiekę."
+}

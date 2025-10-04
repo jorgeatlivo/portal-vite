@@ -1,0 +1,10 @@
+{
+  "clear": "Wyczyść",
+  "close": "Zamknij",
+  "save": "Zapisz",
+  "other": "Inne",
+  "select_placeholder": "Proszę wybrać wartość",
+  "no_search_results": "Nie znaleźliśmy żadnych wyników pasujących do Twoich kryteriów. Wyczyść lub wyszukaj ponownie.",
+  "loading": "Ładowanie...",
+  "clear_search": "Wyczyść wyszukiwanie"
+}

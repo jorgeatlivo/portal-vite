@@ -1,0 +1,22 @@
+{
+  "edit_shift_title": "Edytuj dyżur: {shift}",
+  "select_category_title": "Jaki rodzaj dyżury chcesz utworzyć?",
+  "edit_single_shift_summary_header": "Zostanie edytowana zmiana z dnia {date, date, DD/MM/YYYY}",
+  "edit_multiple_shifts_summary_header": "Zostanie edytowanych {numberOfShifts} dyzurów w okresie od {startDate} do {endDate}",
+  "edit_shift_button": "Edytuj dyżur",
+  "edit_multiple_shifts_button": "Edytuj {numberOfShifts} dyzurów",
+  "edit_shift_date_selector_subtitle": "Zmiany nie zostaną zastosowane do obsadzonych dyzurów",
+  "edit_recurrent_shift_button": "Edytuj dyżur",
+  "edit_recurrent_shift_go_back": "Anuluj",
+  "recurrency_option_this_shift": "Ta dyżur",
+  "recurrency_option_all_shifts": "Wszystkie dyżury",
+  "recurrency_options_all_shifts_disclaimer": "(Z wyjątkiem obsadzonych dyzurów)",
+  "error_editing_header": "Błąd podczas aktualizacji dyżury",
+  "shift_modification_success": "Dyżur została pomyślnie zaktualizowana",
+  "shift_modification_failed": "Nie udało się zaktualizować dyżury",
+  "assign_candidates": "Przypisz kandydatów",
+  "assign_candidates_tooltip": "Przypisz profesjonalistę do dyżuru, aby przyznać mu priorytetowy dostęp i umożliwić wcześniejsze aplikowanie niż innym. Będzie miał 8 godzin priorytetu dla dyżurów z mniej niż 72 godzinami wyprzedzenia i 24 godziny priorytetu dla dyżurów z ponad 72 godzinami wyprzedzenia.",
+  "checking_professional_eligibility": "Sprawdzanie uprawnień profesjonalistów...",
+  "professionals_removed_warning": "⚠️ Następujący profesjonaliści zostali usunięci z powodu problemów z uprawnieniami: {professionals}",
+  "professional_already_accepted_shift": "Profesjonalista już zaakceptował ten dyżur"
+}

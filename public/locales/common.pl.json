@@ -1,0 +1,14 @@
+{
+  "accept": "Akceptuj",
+  "edit": "Edytuj",
+  "go_back": "Wróć",
+  "apply_label": "Zastosuj",
+  "return_label": "Powrót",
+  "page_not_found_title": "Ups! Strona nie znaleziona.",
+  "page_not_found_subtitle": "Strona, której szukasz, nie istnieje.",
+  "page_not_found_button": "Strona główna",
+  "no_option_selected": "Brak",
+  "nurse": "Pielęgniarka",
+  "error_on_confirm_action": "Błąd podczas potwierdzania akcji",
+  "error_unexpected_error": "Wystąpił nieoczekiwany błąd"
+}

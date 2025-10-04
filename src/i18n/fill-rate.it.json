@@ -1,0 +1,12 @@
+{
+  "low": "Bassa",
+  "medium": "Media",
+  "tooltip_title": "Seleziona 1 o più giorni per creare turni.",
+  "tooltip_list_header": "I giorni evidenziati:",
+  "tooltip_list_normal": "Turni selezionati",
+  "tooltip_list_holiday": "Turni selezionati in un giorno festivo",
+  "tooltip_list_low": "Turni con bassa probabilità di essere coperti",
+  "tooltip_list_medium": "Turni con media probabilità di essere coperti",
+  "tooltip_with_band": "{{count}} con <Band/>",
+  "tooltip_with_both": "{low} con <LowBand/> e {medium} con <MediumBand/>"
+}

@@ -1,0 +1,10 @@
+{
+  "clear": "Clear",
+  "close": "Close",
+  "save": "Save",
+  "other": "Other",
+  "select_placeholder": "Please specify a value",
+  "no_search_results": "We haven't found any results that match your criteria. Please clear or search again.",
+  "loading": "Loading...",
+  "clear_search": "Clear search"
+}

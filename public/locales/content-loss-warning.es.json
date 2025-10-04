@@ -1,0 +1,8 @@
+{
+  "title": "Tienes cambios sin guardar",
+  "create_offer_body": "¿Deseas guardar los cambios realizados en la oferta antes de salir de esta página?",
+  "edit_offer_body": "Si sales de esta página perderás los cambios realizados en la oferta. ¿Qué deseas hacer?",
+  "discard_button": "Descartar",
+  "return_button": "Volver",
+  "edit_button": "Segur editando"
+}

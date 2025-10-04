@@ -1,0 +1,15 @@
+{
+  "empty_shifts_state_title": "Non ci sono turni programmati per questo momento della giornata. Una volta creato un turno, potrai visualizzarlo qui.",
+  "empty_shifts_state_publish_shift_subtitle": "Premi su ",
+  "empty_shifts_state_publish_shift_subtitle_2": " per pubblicare un nuovo turno.",
+  "empty_shifts_state_publish_shift_button": "Crea turno +",
+  "filtered_empty_shifts_state_title": "Nessun risultato",
+  "filtered_empty_shifts_state_publish_shift_subtitle": "Non ci sono turni pubblicati con il filtro applicato.",
+  "filtered_empty_shifts_state_publish_shift_button": "Vedi tutti i turni",
+  "identifier_copied": "Identificatore copiato con successo",
+  "filter_requests": "Richieste",
+  "filter_pending": "In sospeso",
+  "filter_covered": "Coperto",
+  "filter_onboarding": "Inserimento",
+  "filter_all": "Tutti"
+}

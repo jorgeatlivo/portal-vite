@@ -1,0 +1,6 @@
+{
+  "modal_title": "Do you want to revoke the request to this professional?",
+  "modal_body": "The request will be canceled, and the appointment will be available again with its original configuration. This professional will not be able to request again.",
+  "cancel_button_label": "Cancel request",
+  "return_button_label": "Return"
+}

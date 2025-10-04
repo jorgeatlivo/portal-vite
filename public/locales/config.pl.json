@@ -1,0 +1,12 @@
+{
+  "general_info_tab": "Informacje ogólne",
+  "permissions_tab": "Uprawnienia",
+  "user_info": "Informacje użytkownika",
+  "facility_info": "Informacje o placówce",
+  "change_password_cta": "Zmień hasło",
+  "facilities_counter": "< {facilities, plural, one{# placówka} few{# placówki} many{# placówek} other{# placówek}}",
+  "legal_id_title": "NIP",
+  "title": "Konfiguracja",
+  "favorite_professionals_title": "Ulubieni pracownicy",
+  "language": "Język"
+}

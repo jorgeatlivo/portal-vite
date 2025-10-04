@@ -1,0 +1,8 @@
+{
+  "title": "Masz niezapisane zmiany",
+  "create_offer_body": "Czy chcesz zapisać zmiany wprowadzone w ofercie przed opuszczeniem tej strony?",
+  "edit_offer_body": "Jeśli opuścisz tę stronę, utracisz wprowadzone zmiany w ofercie. Co chcesz zrobić?",
+  "discard_button": "Odrzuć",
+  "return_button": "Wróć",
+  "edit_button": "Kontynuuj edycję"
+}

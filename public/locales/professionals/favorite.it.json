@@ -1,0 +1,15 @@
+{
+  "favorite_professionals_title": "Professionisti preferiti",
+  "manage_favorite_professionals_title": "Gestisci preferiti",
+  "favorite_label": "Preferito",
+  "open_favorite_professionals_label": "Visualizza professionisti preferiti",
+  "favorite_professional_label": "Professionista preferito",
+  "view_all_favorite_professionals_label": "Visualizza tutti i preferiti",
+  "remove_favorite_professional_title": "Vuoi rimuovere dai preferiti?",
+  "remove_favorite_professional_dismiss_title": "Torna indietro",
+  "remove_favorite_professional_button_title": "Rimuovi",
+  "remove_favorite_professional_description_1": "Rimuovendo questo professionista dai tuoi preferiti, non sarà prioritario nelle future assegnazioni dei turni.",
+  "remove_favorite_professional_description_2": "Sei sicuro di voler continuare?",
+  "error_loading_favorite_professionals": "Errore nel caricamento dei professionisti preferiti",
+  "searching_professionals_description": "Stiamo cercando professionisti per coprire questo turno, dando priorità ai tuoi professionisti preferiti per garantire la migliore assistenza possibile."
+}

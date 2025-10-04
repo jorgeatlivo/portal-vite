@@ -1,0 +1,27 @@
+@mixin fade-slide-up($duration: 0.25s) { // Giảm duration từ 1s xuống 0.4s
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeSlideUp $duration ease-out forwards;
+  animation-play-state: paused;
+  animation-delay: var(--animation-delay, 0s); // Sử dụng CSS variable từ inline style
+}
+
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.offer-item {
+  @include fade-slide-up();
+  will-change: opacity, transform;
+
+  &.visible {
+    animation-play-state: running;
+  }
+}

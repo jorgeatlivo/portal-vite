@@ -1,0 +1,12 @@
+{
+  "low": "Niskie",
+  "medium": "Średnie",
+  "tooltip_title": "Wybierz 1 lub więcej dni, aby utworzyć zmiany.",
+  "tooltip_list_header": "Wyróżnione dni:",
+  "tooltip_list_normal": "Wybrane zmiany",
+  "tooltip_list_holiday": "Wybrane zmiany w dzień świąteczny",
+  "tooltip_list_low": "Zmiany z niskim prawdopodobieństwem obsadzenia",
+  "tooltip_list_medium": "Zmiany ze średnim prawdopodobieństwem obsadzenia",
+  "tooltip_with_band": "{{count}} z <Band/>",
+  "tooltip_with_both": "{low} z <LowBand/> i {medium} z <MediumBand/>"
+}

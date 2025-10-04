@@ -1,0 +1,23 @@
+{
+  "change_password_title": "Cambiar contraseña",
+  "settings_modal_header_title": "Configuración",
+  "error_passwords_do_not_match": "Las contraseñas no coinciden",
+  "error_invalid_password": "La contraseña no puede estar vacía",
+  "error_change_password": "Hubo un error al cambiar la contraseña",
+  "error_title": "Error",
+  "password_change_successful_title": "Contraseña cambiada",
+  "password_change_successful_message": "Tu contraseña ha sido cambiada con éxito",
+  "settings_screen_change_password_header": "Cambiar contraseña",
+  "settings_screen_change_password_old": "Contraseña actual",
+  "settings_screen_change_password_new": "Contraseña nueva",
+  "settings_screen_change_password_confirm": "Confirmar contraseña",
+  "settings_screen_change_password_button": "Cambiar contraseña",
+  "configuration_screen_title": "Configuración",
+  "settings_screen_information": "Tu información",
+  "settings_screen_settings_config": "Ajustes",
+  "settings_screen_facility_info": "Información del centro",
+  "last_time_sign_in": "Último inicio de sesión: ",
+  "password_succeed_changed": "Contraseña cambiada con éxito",
+  "current_password": "Contraseña actual",
+  "personal_data_title": "Datos personales"
+}

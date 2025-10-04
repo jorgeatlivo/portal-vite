@@ -1,0 +1,22 @@
+{
+  "edit_shift_title": "Modifica turno: {shift}",
+  "select_category_title": "Che tipo di turno vuoi creare?",
+  "edit_single_shift_summary_header": "Il turno del {date, date, DD/MM/YYYY} sarà modificato",
+  "edit_multiple_shifts_summary_header": "Saranno modificati {numberOfShifts} turni tra il {startDate} e il {endDate}",
+  "edit_shift_button": "Modifica turno",
+  "edit_multiple_shifts_button": "Modifica {numberOfShifts} turni",
+  "edit_shift_date_selector_subtitle": "Le modifiche non saranno applicate ai turni coperti.",
+  "edit_recurrent_shift_button": "Modifica turno",
+  "edit_recurrent_shift_go_back": "Annulla",
+  "recurrency_option_this_shift": "Questo turno",
+  "recurrency_option_all_shifts": "Tutti i turni",
+  "recurrency_options_all_shifts_disclaimer": "(Eccetto i turni coperti)",
+  "error_editing_header": "Errore durante l'aggiornamento del turno",
+  "shift_modification_success": "Turno aggiornato con successo",
+  "shift_modification_failed": "Errore durante l'aggiornamento del turno",
+  "assign_candidates": "Assegna candidati",
+  "assign_candidates_tooltip": "Assegna un professionista a un turno per concedergli accesso prioritario e permettergli di candidarsi prima degli altri. Avrà 8 ore di priorità per i turni con meno di 72 ore di preavviso e 24 ore di priorità per i turni con più di 72 ore di preavviso.",
+  "checking_professional_eligibility": "Verifica dell'idoneità dei professionisti...",
+  "professionals_removed_warning": "⚠️ I seguenti professionisti sono stati rimossi a causa di problemi di idoneità: {professionals}",
+  "professional_already_accepted_shift": "Il professionista ha già accettato questo turno"
+}

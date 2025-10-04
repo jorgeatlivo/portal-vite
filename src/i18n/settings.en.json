@@ -1,0 +1,23 @@
+{
+  "change_password_title": "Change Password",
+  "settings_modal_header_title": "Settings",
+  "error_passwords_do_not_match": "Passwords do not match",
+  "error_invalid_password": "Password cannot be empty",
+  "error_change_password": "There was an error changing the password",
+  "error_title": "Error",
+  "password_change_successful_title": "Password Changed",
+  "password_change_successful_message": "Your password has been successfully changed",
+  "settings_screen_change_password_header": "Change Password",
+  "settings_screen_change_password_old": "Current Password",
+  "settings_screen_change_password_new": "New Password",
+  "settings_screen_change_password_confirm": "Confirm Password",
+  "settings_screen_change_password_button": "Change Password",
+  "configuration_screen_title": "Settings",
+  "settings_screen_information": "Your Information",
+  "settings_screen_settings_config": "Settings",
+  "settings_screen_facility_info": "Facility Information",
+  "last_time_sign_in": "Last Sign-In: ",
+  "password_succeed_changed": "Password successfully changed",
+  "current_password": "Current Password",
+  "personal_data_title": "Personal Data"
+}

@@ -1,0 +1,12 @@
+{
+  "general_info_tab": "Informazioni generali",
+  "permissions_tab": "Autorizzazioni",
+  "user_info": "Informazioni utente",
+  "facility_info": "Informazioni sulla struttura",
+  "change_password_cta": "Cambia password",
+  "facilities_counter": "< {facilities, plural, one{# struttura} other{# strutture}}",
+  "legal_id_title": "CIF",
+  "title": "Impostazioni",
+  "favorite_professionals_title": "Professionisti preferiti",
+  "language": "Lingua"
+}

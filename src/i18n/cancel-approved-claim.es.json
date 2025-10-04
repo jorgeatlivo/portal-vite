@@ -1,0 +1,6 @@
+{
+  "modal_title": "¿Quieres revocar la solicitud a este profesional?",
+  "modal_body": "Se cancelará la solicitud y el turno volverá a estar disponible para la configuración original. Este profesional no será capaz de volver a solicitar.",
+  "cancel_button_label": "Cancelar solicitud",
+  "return_button_label": "Volver"
+}

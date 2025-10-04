@@ -1,0 +1,6 @@
+{
+  "modal_title": "Czy chcesz cofnąć zgłoszenie dla tego profesjonalisty?",
+  "modal_body": "Zgłoszenie zostanie anulowane, a wizyta będzie ponownie dostępna z pierwotną konfiguracją. Ten profesjonalista nie będzie mógł ponownie złożyć zgłoszenia.",
+  "cancel_button_label": "Anuluj zgłoszenie",
+  "return_button_label": "Powrót"
+}

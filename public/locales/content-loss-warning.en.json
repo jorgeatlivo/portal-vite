@@ -1,0 +1,8 @@
+{
+  "title": "You have unsaved changes",
+  "create_offer_body": "Do you want to save the changes you made to the offer before leaving this page?",
+  "edit_offer_body": "If you leave this page, you will lose the changes you made to the offer. What do you want to do?",
+  "discard_button": "Discard",
+  "return_button": "Return",
+  "edit_button": "Continue editing"
+}
